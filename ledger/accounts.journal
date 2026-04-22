@@ -11,6 +11,7 @@
 ; ASSETS — things you own (bank accounts, cash, investments)
 ; ====================================================================
 
+account assets:bank:n26
 account assets:cash
 
 ; ====================================================================

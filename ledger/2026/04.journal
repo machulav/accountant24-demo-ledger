@@ -1,0 +1,73 @@
+; April 2026
+
+2026-04-01 Employer SAS | Monthly salary
+    assets:bank:n26                                                  5200.00 EUR
+    income:salary                                                   -5200.00 EUR
+
+2026-04-01 Foncia | Rent April
+    assets:bank:n26                                                 -1850.00 EUR
+    expenses:housing:rent                                            1850.00 EUR
+
+2026-04-02 Free | Internet box
+    assets:bank:n26                                                 -29.99 EUR
+    expenses:utilities:internet                                      29.99 EUR
+
+2026-04-02 Free | Mobile plan
+    assets:bank:n26                                                 -19.99 EUR
+    expenses:utilities:phone                                         19.99 EUR
+
+2026-04-03 Monoprix | Weekly groceries
+    assets:bank:n26                                                 -78.40 EUR
+    expenses:food:groceries                                          78.40 EUR
+
+2026-04-03 Spotify | Monthly subscription
+    assets:bank:n26                                                 -10.99 EUR
+    expenses:subscriptions:streaming                                 10.99 EUR
+
+2026-04-05 Basic-Fit | Gym membership
+    assets:bank:n26                                                 -29.99 EUR
+    expenses:personal-care:gym-and-fitness                           29.99 EUR
+
+2026-04-06 Café de Flore | Brunch
+    assets:bank:n26                                                 -14.50 EUR
+    expenses:food:coffee-shops                                       14.50 EUR
+
+2026-04-08 Monoprix | Toiletries and vitamins
+    assets:bank:n26                                                 -32.80 EUR
+    expenses:personal-care:other                                     32.80 EUR
+
+2026-04-10 Franprix | Weekly groceries
+    assets:bank:n26                                                 -63.20 EUR
+    expenses:food:groceries                                          63.20 EUR
+
+2026-04-11 RATP | Navigo monthly pass
+    assets:bank:n26                                                 -86.40 EUR
+    expenses:transport:public-transit                                86.40 EUR
+
+2026-04-12 Le Bouillon Chartier | Dinner with friends
+    assets:bank:n26                                                 -52.00 EUR
+    expenses:food:dining-out                                         52.00 EUR
+
+2026-04-13 Café de Flore | Sunday coffee
+    assets:bank:n26                                                 -12.80 EUR
+    expenses:food:coffee-shops                                       12.80 EUR
+
+2026-04-14 Netflix | Monthly subscription
+    assets:bank:n26                                                 -13.99 EUR
+    expenses:subscriptions:streaming                                 13.99 EUR
+
+2026-04-15 MGEN | Health insurance
+    assets:bank:n26                                                 -62.00 EUR
+    expenses:health:insurance                                        62.00 EUR
+
+2026-04-17 Monoprix | Weekly groceries
+    assets:bank:n26                                                 -71.50 EUR
+    expenses:food:groceries                                          71.50 EUR
+
+2026-04-18 Gibert Joseph | Tech books
+    assets:bank:n26                                                 -24.90 EUR
+    expenses:education:books                                         24.90 EUR
+
+2026-04-19 Le Petit Cler | Saturday lunch
+    assets:bank:n26                                                 -28.50 EUR
+    expenses:food:dining-out                                         28.50 EUR
