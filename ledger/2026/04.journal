@@ -86,3 +86,18 @@
     ; trip_berlin_2026:
     assets:bank:n26                                                 -12.50 EUR
     expenses:travel:food                                             12.50 EUR
+
+2026-04-24 * Museum Island | Tickets
+    ; trip_berlin_2026:
+    assets:bank:n26                                                 -19.00 EUR
+    expenses:entertainment:events-and-activities                     19.00 EUR
+
+2026-04-24 * Curry 36 | 
+    ; trip_berlin_2026:
+    assets:bank:n26                                                 -8.50 EUR
+    expenses:travel:food                                             8.50 EUR
+
+2026-04-24 * Thalys | Berlin-Paris
+    ; trip_berlin_2026:
+    assets:bank:n26                                                 -59.90 EUR
+    expenses:travel:transportation                                   59.90 EUR
