@@ -71,3 +71,18 @@
 2026-04-19 Le Petit Cler | Saturday lunch
     assets:bank:n26                                                 -28.50 EUR
     expenses:food:dining-out                                         28.50 EUR
+
+2026-04-24 * Thalys | Paris-Berlin
+    ; trip_berlin_2026:
+    assets:bank:n26                                                 -59.90 EUR
+    expenses:travel:transportation                                   59.90 EUR
+
+2026-04-24 * Adina Apartment Hotel Berlin Mitte | 
+    ; trip_berlin_2026:
+    assets:bank:n26                                                 -129.00 EUR
+    expenses:travel:accommodation                                    129.00 EUR
+
+2026-04-24 * Mustafa's Gemüse Kebap | 
+    ; trip_berlin_2026:
+    assets:bank:n26                                                 -12.50 EUR
+    expenses:travel:food                                             12.50 EUR
