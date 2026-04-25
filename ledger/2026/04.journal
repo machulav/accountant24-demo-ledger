@@ -71,3 +71,43 @@
 2026-04-19 Le Petit Cler | Saturday lunch
     assets:bank:n26                                                 -28.50 EUR
     expenses:food:dining-out                                         28.50 EUR
+
+2026-04-25 * Deutsche Bahn | ICE to Berlin
+    ; trip_berlin:
+    assets:bank:n26                                                 -29.90 EUR
+    expenses:travel:transportation                                   29.90 EUR
+
+2026-04-25 * BVG | day pass
+    ; trip_berlin:
+    assets:bank:n26                                                 -11.20 EUR
+    expenses:transport:public-transit                                11.20 EUR
+
+2026-04-25 * The Barn | coffee
+    ; trip_berlin:
+    assets:bank:n26                                                 -4.90 EUR
+    expenses:food:coffee-shops                                       4.90 EUR
+
+2026-04-25 * Alte Nationalgalerie
+    ; trip_berlin:
+    assets:bank:n26                                                 -14.00 EUR
+    expenses:entertainment:events-and-activities                     14.00 EUR
+
+2026-04-25 * Burgermeister | burger
+    ; trip_berlin:
+    assets:bank:n26                                                 -5.00 EUR
+    expenses:food:dining-out                                         5.00 EUR
+
+2026-04-25 * Klunkerkranich | beers
+    ; trip_berlin:
+    assets:bank:n26                                                 -9.00 EUR
+    expenses:food:dining-out                                         9.00 EUR
+
+2026-04-25 * Mustafa's | kebab
+    ; trip_berlin:
+    assets:bank:n26                                                 -7.90 EUR
+    expenses:food:dining-out                                         7.90 EUR
+
+2026-04-25 * Deutsche Bahn | ICE back
+    ; trip_berlin:
+    assets:bank:n26                                                 -29.90 EUR
+    expenses:travel:transportation                                   29.90 EUR
