@@ -1,4 +1,17 @@
 {
   "defaultProvider": "openai",
-  "defaultModel": "gpt-5.5"
+  "defaultModel": "gpt-5.5",
+  "theme": "dark",
+  "terminal": {
+    "showImages": false,
+    "clearOnShrink": false
+  },
+  "quietStartup": true,
+  "collapseChangelog": true,
+  "lastChangelogVersion": "0.79.8",
+  "images": {
+    "autoResize": false,
+    "blockImages": false
+  },
+  "enableSkillCommands": true
 }
