@@ -5,3 +5,7 @@
 2026-06-25 * EDEKA
     assets:bank:n26                                                 -10.00 EUR
     expenses:food:groceries                                          10.00 EUR
+
+2026-06-25 * BVG
+    assets:bank:n26                                                 -12.00 EUR
+    expenses:transport:public-transit                                12.00 EUR
