@@ -1,5 +1,5 @@
 {
-  "defaultProvider": "openai",
+  "defaultProvider": "openai-codex",
   "defaultModel": "gpt-5.5",
   "theme": "dark",
   "terminal": {
@@ -13,5 +13,6 @@
     "autoResize": false,
     "blockImages": false
   },
-  "enableSkillCommands": true
+  "enableSkillCommands": true,
+  "defaultThinkingLevel": "medium"
 }
