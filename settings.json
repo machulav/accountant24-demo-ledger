@@ -14,5 +14,5 @@
     "blockImages": false
   },
   "enableSkillCommands": true,
-  "defaultThinkingLevel": "medium"
+  "defaultThinkingLevel": "high"
 }
