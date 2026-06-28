@@ -13,3 +13,7 @@
 2026-06-27 * EDEKA
     assets:bank:n26                                                 -30.50 EUR
     expenses:food:groceries                                          30.50 EUR
+
+2026-06-28 * REWE
+    assets:bank:n26                                                 -30.00 EUR
+    expenses:food:groceries                                          30.00 EUR
