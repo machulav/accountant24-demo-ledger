@@ -1,0 +1,17 @@
+2026-05-04 * ARAG SE
+    ; original_description: Lastschriften; IBAN: DE54302201900323535205; BIC: HYVEDEMM414; 11 0154 1870 0579 ARAG Rechtsschutz Beitrag 28.05.26-28.06.26; Wertstellung 04.05.2026
+    ; original_payee_name: ARAG SE
+    assets:bank:n26                                                 -49.39 EUR
+    expenses:professional-services:legal                             49.39 EUR
+
+2026-05-04 * Vattenfall Europe Sales
+    ; original_description: Lastschriften; IBAN: DE93500500000090085135; BIC: HELADEFFXXX; S/836702135896/603813739641 Glasblaeserallee 18 Strom Abschlag; Wertstellung 04.05.2026
+    ; original_payee_name: VATTENFALL EUROPE SALES
+    assets:bank:n26                                                 -97.00 EUR
+    expenses:utilities:electricity                                   97.00 EUR
+
+2026-05-05 * Telekom Deutschland GmbH
+    ; original_description: Lastschriften; IBAN: DE07512108001095000911; BIC: SOGEDEFFXXX; Festnetz Vertragskonto 5633790162 RG 7273578267/23.04.2026; Wertstellung 05.05.2026
+    ; original_payee_name: Telekom Deutschland GmbH
+    assets:bank:n26                                                 -54.95 EUR
+    expenses:utilities:internet                                      54.95 EUR
