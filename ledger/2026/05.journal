@@ -15,3 +15,52 @@
     ; original_payee_name: Telekom Deutschland GmbH
     assets:bank:n26                                                 -54.95 EUR
     expenses:utilities:internet                                      54.95 EUR
+
+2026-05-06 * Swapfiets
+    ; original_description: Mastercard • Transport; Wertstellung 06.05.2026
+    ; original_payee_name: PAYPAL *SWAPFIETS SWAP
+    ; related_file: files/2026/06/20260628125434.pdf
+    assets:bank:n26                                                 -25.90 EUR
+    expenses:transport:bike-and-scooter                              25.90 EUR
+
+2026-05-06 * La Bufala
+    ; original_description: Mastercard • Bars & Restaurants; Wertstellung 06.05.2026
+    ; original_payee_name: LA BUFALA
+    ; related_file: files/2026/06/20260628125434.pdf
+    assets:bank:n26                                                 -60.00 EUR
+    expenses:food:dining-out                                         60.00 EUR
+
+2026-05-07 * Agromart Inca
+    ; original_description: Mastercard • Lebensmittel; Wertstellung 07.05.2026
+    ; original_payee_name: AGROMART INCA
+    ; related_file: files/2026/06/20260628125434.pdf
+    assets:bank:n26                                                 -87.76 EUR
+    expenses:food:groceries                                          87.76 EUR
+
+2026-05-08 * Linformal Tacos
+    ; original_description: Mastercard • Bars & Restaurants; Wertstellung 08.05.2026
+    ; original_payee_name: LINFORMAL TACOS
+    ; related_file: files/2026/06/20260628125434.pdf
+    assets:bank:n26                                                 -87.00 EUR
+    expenses:food:dining-out                                         87.00 EUR
+
+2026-05-09 * SumUp *CAN126
+    ; original_description: Mastercard • Lebensmittel; Wertstellung 09.05.2026
+    ; original_payee_name: SumUp *CAN126
+    ; related_file: files/2026/06/20260628125434.pdf
+    assets:bank:n26                                                 -33.09 EUR
+    expenses:food:groceries                                          33.09 EUR
+
+2026-05-09 * Fraenk
+    ; original_description: Mastercard • Medien & Telekom; Wertstellung 09.05.2026
+    ; original_payee_name: PAYPAL *FRAENK
+    ; related_file: files/2026/06/20260628125434.pdf
+    assets:bank:n26                                                 -10.00 EUR
+    expenses:utilities:phone                                         10.00 EUR
+
+2026-05-09 * Bistro Mercat
+    ; original_description: Mastercard • Bars & Restaurants; Wertstellung 09.05.2026
+    ; original_payee_name: BISTRO MERCAT
+    ; related_file: files/2026/06/20260628125434.pdf
+    assets:bank:n26                                                 -95.00 EUR
+    expenses:food:dining-out                                         95.00 EUR
