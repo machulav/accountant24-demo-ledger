@@ -1,18 +1,5 @@
 {
-  "defaultProvider": "openai-codex",
-  "defaultModel": "gpt-5.5",
-  "theme": "dark",
-  "terminal": {
-    "showImages": false,
-    "clearOnShrink": false
-  },
-  "quietStartup": true,
-  "collapseChangelog": true,
-  "lastChangelogVersion": "0.79.8",
-  "images": {
-    "autoResize": false,
-    "blockImages": false
-  },
-  "enableSkillCommands": true,
-  "defaultThinkingLevel": "high"
+  "defaultProvider": "ollama",
+  "defaultThinkingLevel": "medium",
+  "defaultModel": "gemma4:31b"
 }

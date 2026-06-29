@@ -29,3 +29,7 @@
 2026-06-28 * EDEKA
     assets:bank:n26                                                 -55.60 EUR
     expenses:food:groceries                                          55.60 EUR
+
+2026-06-29 * EDEKA
+    assets:bank:n26                                                 -40.00 EUR
+    expenses:food:groceries                                          40.00 EUR

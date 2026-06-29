@@ -1,13 +1,38 @@
 {
   "providers": {
     "ollama": {
+      "name": "Ollama",
       "baseUrl": "http://localhost:11434/v1",
       "api": "openai-completions",
       "apiKey": "ollama",
       "models": [
         {
+          "id": "qwen3.5:35b-a3b-coding-nvfp4",
+          "name": "qwen3.5:35b-a3b-coding-nvfp4"
+        },
+        {
+          "id": "qwen3.5:35b-a3b-nvfp4",
+          "name": "qwen3.5:35b-a3b-nvfp4"
+        },
+        {
+          "id": "qwen3-vl:8b",
+          "name": "qwen3-vl:8b"
+        },
+        {
           "id": "gemma4:31b",
-          "name": "Gemma 4 (31B)"
+          "name": "gemma4:31b"
+        },
+        {
+          "id": "gpt-oss:latest",
+          "name": "gpt-oss:latest"
+        },
+        {
+          "id": "gemma4:26b",
+          "name": "gemma4:26b"
+        },
+        {
+          "id": "kimi-k2.5:cloud",
+          "name": "kimi-k2.5:cloud"
         }
       ]
     }
